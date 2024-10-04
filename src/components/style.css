@@ -1,0 +1,29 @@
+.container{
+ background-color: pink;
+}
+@keyframes moveLeft {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  @keyframes moveRight {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  
+  .swap-image {
+    animation: moveLeft 1s forwards;
+  }
+  
+  .swap-form {
+    animation: moveRight 1s forwards;
+  }
+  
