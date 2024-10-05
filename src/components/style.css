@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 .container{
  background-color: pink;
 }
@@ -27,3 +28,8 @@
     animation: moveRight 1s forwards;
   }
   
+  .lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
