@@ -1,6 +1,6 @@
 [
     {
-      "_id": "6",
+      "_id": "1",
       "name": "Mango Smoothie",
       "image": "https://images.stockcake.com/public/0/4/1/04134c1a-5dad-45df-a48f-9f1be2ffa9bc_large/mango-smoothie-refreshment-stockcake.jpg",
       "reviews": [
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "_id": "7",
+      "_id": "2",
       "name": "Kiwi Mania",
       "image": "https://images.stockcake.com/public/c/3/3/c33b9f64-cc41-4be4-ae71-0e2017edebaa_large/kiwi-green-smoothie-stockcake.jpg",
       "reviews": [
@@ -20,7 +20,7 @@
       ]
     },
     {
-        "_id": "8",
+        "_id": "3",
         "name": "Banana Bowl",
         "image": "https://images.stockcake.com/public/3/8/5/385ba728-d102-4b9f-ae8b-dfef9368cd29_large/delicious-banana-pudding-stockcake.jpg",
         "reviews": [
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "_id": "9",
+        "_id": "3",
         "name": "Berry Blast",
         "image": "https://images.stockcake.com/public/5/7/1/571c6c21-a2a1-4c23-bc69-b7871fca364c_large/berry-smoothie-bowl-stockcake.jpg",
         "reviews": [
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "_id": "10",
+        "_id": "4",
         "name": "Pomagranate Pulse",
         "image": "https://images.stockcake.com/public/6/c/7/6c700625-55b8-412e-8b6d-41b1826663d7_large/pomegranate-juice-glass-stockcake.jpg",
         "reviews": [
@@ -50,27 +50,12 @@
             
         ]
       } ,  {
-        "_id": "11",
-        "name": "Green Boost",
+        "_id": "5",
+        "name": "",
         "image": "https://images.stockcake.com/public/0/a/d/0ad23075-3d4f-4dd6-bc72-7cf613e7b5c6_large/refreshing-lime-splash-stockcake.jpg",
         "reviews": [
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdQLwDqDwd2JfzifvfBTFT8I7iKFFevcedYg&s",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9GFcYYBlO9bXtNf0FEnaHPuyU8zwtyMgDg&s",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59g7q9vJ_wP3d8O3lB89rO8F8zXw648q76g&s"
-         
+          "https://via.placeholder.com/50",
+          "https://via.placeholder.com/50"
         ]
-      },
-
-    {
-  "_id": "12",
-  "name": "Watermelon well",
-  "image": "https://images.stockcake.com/public/0/a/d/0ad23075-3d4f-4dd6-bc72-7cf613e7b5c6_large/refreshing-lime-splash-stockcake.jpg",
-  "reviews": [
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdQLwDqDwd2JfzifvfBTFT8I7iKFFevcedYg&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9GFcYYBlO9bXtNf0FEnaHPuyU8zwtyMgDg&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59g7q9vJ_wP3d8O3lB89rO8F8zXw648q76g&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59g7q9vJ_wP3d8O3lB89rO8F8zXw648q76g&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59g7q9vJ_wP3d8O3lB89rO8F8zXw648q76g&s"
-  ]
-}
+      }
   ]

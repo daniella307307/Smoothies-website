@@ -25,6 +25,11 @@ const SmoothieSchema = new moongose.Schema({
         type: [String], // Array of URLs (strings) for review images
         default: [],
       },
+    
+      recipe: {
+        type: String, // Recipe steps in string form
+        required: true,
+      },
 
 })
 
